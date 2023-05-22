@@ -10,6 +10,8 @@ This project focuses on analyzing the sales and profit data of the  company "Sup
 ## Data Source
 Dataset: https://www.kaggle.com/datasets/juhi1994/superstore
 
+My Kaggle Notebook Link :https://www.kaggle.com/nidhiy07/superstore-customer-segmentation
+
 ## Project Description
 This project is divided into two main parts: Visualization and Analysis.
 ## Visualization 
@@ -60,8 +62,15 @@ By performing RFM Analysis and applying K-means clustering, you can gain insight
 
 10)Customer Segmentation: The analysis includes customer segmentation using RFM (Recency, Frequency, Monetary) scores. The Loyal customer segment demonstrates the highest purchasing frequency and generates the most profit, while the Churned customer segment has the lowest RFM scores and generates the least profit. The focus should be on retaining Loyal customers and re-engaging Churned customers.
 
+![Superstore Analysis_page-0001](https://github.com/nidhiy7/Superstore_Analysis_Power_BI/assets/80893000/7fa4ed22-29a2-4ecb-b840-a2f02a14ccbe)
+![Superstore Analysis_page-0002](https://github.com/nidhiy7/Superstore_Analysis_Power_BI/assets/80893000/84d4de17-a251-477c-8389-2dfac487e6dc)
+![Superstore Analysis_page-0003](https://github.com/nidhiy7/Superstore_Analysis_Power_BI/assets/80893000/5ae2a1de-2083-4395-aacc-967cc6c0dead)
+
+
 ## Conclusion 
 This project report provides an in-depth analysis of sales and profit for Superstore. The visualizations offer clear insights into trends and patterns, enabling data-driven decision-making. The customer segmentation using RFM Analysis and K-means clustering enables targeted marketing strategies for different customer groups.
+
+
 
 
 
