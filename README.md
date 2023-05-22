@@ -23,7 +23,7 @@ This project is divided into two main parts: Visualization and Analysis.
 
 By utilizing these visualizations and interactive filters, the Power BI project aims to provide insights into the sales and profit trends, category/sub-category performance, and regional analysis, allowing for a comprehensive understanding of the data and facilitating data-driven decision making.
 
-## Analysis
+## Customer Segmentation
 RFM Analysis: This technique segments customers based on three key metrics:
 
 1)Recency: Number of days since the customer's last purchase.
@@ -38,5 +38,28 @@ RFM Analysis: This technique segments customers based on three key metrics:
 - Assign Customers to Clusters: Assign each customer to a specific cluster based on their RFM scores and the clusters identified by the K-means algorithm. This provides a way to understand and target different customer segments effectively.
 
 By performing RFM Analysis and applying K-means clustering, you can gain insights into customer behavior, identify valuable customer segments, and tailor marketing and retention strategies accordingly.
+
+## Analysis 
+1)Regional Performance: The Central region has the highest total sales and profit, while the South region has the lowest.
+
+2)Profit Margin by Product Category: Furniture has the lowest profit margin among all product categories, while Technology has the highest profit margin.
+
+3)Average Order Value by Order Method: Orders placed via the phone have a higher average order value compared to online or mail orders.
+
+4)Average Order Value by Customer Segment: Customers in the Home Office segment have the highest average order value, while those in the Consumer segment have the lowest.
+
+5)Seasonal Sales and Profit: Sales and profit tend to be higher in the second half of the year (July to December) compared to the first half (January to June).
+
+6)Correlation between Sales and Profit: There is a positive correlation between sales and profit, but the strength of the correlation varies by region.
+
+7)Top-Performing Products: The top-performing products in terms of sales and profit are concentrated in the Technology and Office Supplies categories.
+
+8)Customer Behavior: Some customers consistently generate high sales and profit, while others make occasional purchases with lower values.
+
+9)Sub-Category Profit Margins: Certain sub-categories, such as Machines and Tables, consistently have low profit margins, indicating a need to re-evaluate pricing or sourcing strategies for those products.
+
+10)Customer Segmentation: The analysis includes customer segmentation using RFM (Recency, Frequency, Monetary) scores. The Loyal customer segment demonstrates the highest purchasing frequency and generates the most profit, while the Churned customer segment has the lowest RFM scores and generates the least profit. The focus should be on retaining Loyal customers and re-engaging Churned customers.
+
+
 
 
